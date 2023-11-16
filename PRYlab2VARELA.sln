@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRYlab2VARELA", "PRYlab2VARELA\PRYlab2VARELA.csproj", "{C4B98134-4CAD-44E2-A5AA-D030164C1AE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B98134-4CAD-44E2-A5AA-D030164C1AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B98134-4CAD-44E2-A5AA-D030164C1AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B98134-4CAD-44E2-A5AA-D030164C1AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B98134-4CAD-44E2-A5AA-D030164C1AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C1777B-944E-4C59-9971-178E2E31C274}
+	EndGlobalSection
+EndGlobal
